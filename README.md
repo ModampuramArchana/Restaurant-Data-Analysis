@@ -89,7 +89,7 @@ This section showcases the outputs and visualizations generated during the resta
 ![Online Delivery](online-delivery.png)
 
 ### 9. Restaurant Chains
-![Restaurant Chains]("C:\Users\ASUS ROG\Pictures\Screenshots\Restaurant Chains.png")
+![Restaurant Chains](https://github.com/ModampuramArchana/Restaurant-Data-Analysis/blob/cc3b0ed101dbbe6165b3b12db54d38fee34374cd/visualization/Restaurant%20Chains.png)
 
 This section showcases the key outputs and visualizations generated during the restaurant data analysis.
 
