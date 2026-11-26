@@ -58,16 +58,3 @@ Archana Modampuram
 
 Data Analyst Intern – Cognify IT Solutions
 
-## Project Visualizations & Outputs
-
-### 1. Top Cuisines
-![Top Cuisines](Visualizations/top-cuisines.png)
-
-### 2. Restaurant Ratings
-![Restaurant Ratings](Visualizations/restaurant-ratings.png)
-
-### 3. City Analysis
-![City Analysis](Visualizations/city-analysis.png)
-
-### 4. Price Range
-![Price Range](Visualizations/price-range.png)
