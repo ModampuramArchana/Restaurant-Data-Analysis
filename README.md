@@ -58,3 +58,7 @@ Archana Modampuram
 
 Data Analyst Intern – Cognify IT Solutions
 
+## 📊 Project Outputs & Visualizations
+
+This section showcases the outputs and visualizations generated during the restaurant data analysis.
+
