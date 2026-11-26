@@ -74,7 +74,7 @@ This section showcases the outputs and visualizations generated during the resta
 ![City Analysis](city-analysis.png)
 
 ### 4. Price Range Distribution
-![Price Range Distribution](price-range.png)
+![Price Range Distribution](./visualization/price-range.png)
 
 ### 5. Cuisine Combinations
 ![Cuisine Combinations](cuisine-combinations.png)
