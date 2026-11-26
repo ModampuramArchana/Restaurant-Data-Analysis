@@ -62,3 +62,33 @@ Data Analyst Intern – Cognify IT Solutions
 
 This section showcases the outputs and visualizations generated during the restaurant data analysis.
 
+## 📊 Project Outputs & Visualizations
+
+This section showcases the key outputs and visualizations generated during the restaurant data analysis.
+
+### 1. Top Cuisines
+![Top Cuisines](Visualizations/top-cuisines.png)
+
+### 2. Restaurant Ratings
+![Restaurant Ratings](Visualizations/restaurant-ratings.png)
+
+### 3. City Analysis
+![City Analysis](Visualizations/city-analysis.png)
+
+### 4. Price Range Distribution
+![Price Range Distribution](Visualizations/price-range.png)
+
+### 5. Cuisine Combinations
+![Cuisine Combinations](Visualizations/cuisine-combinations.png)
+
+### 6. Geographic Analysis
+![Geographic Analysis](Visualizations/geographic-analysis.png)
+
+### 7. Geographic Analysis - 2
+![Geographic Analysis 2](Visualizations/geographic-analysis-2.png)
+
+### 8. Online Delivery
+![Online Delivery](Visualizations/online-delivery.png)
+
+### 9. Restaurant Chains
+![Restaurant Chains](Visualizations/restaurant-chains.png)
